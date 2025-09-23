@@ -1,2 +1,2 @@
 # Sembera-Sherina-Tapiness
-Matlab group E
+Matlab group 7
